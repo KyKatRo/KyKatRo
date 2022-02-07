@@ -1,4 +1,5 @@
 Hi, I’m @KyKatRo
+
 CS student interested in Artificial Intelligence and Robotics
 
 Computer Science Bachelor’s/Master's Candidate at Case Western

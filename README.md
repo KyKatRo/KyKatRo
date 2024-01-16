@@ -2,7 +2,7 @@ Hi, I’m @KyKatRo
 
 CS student interested in Artificial Intelligence and Robotics
 
-Computer Science Bachelor’s/Master's Candidate at Case Western
+Computer Science Bachelor’s Candidate at Case Western
 Concentrations in: Machine Learning, Robotics, Mechanical Design
 
 <!---

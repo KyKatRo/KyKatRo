@@ -1,9 +1,24 @@
-Hi, I’m @KyKatRo
+# Welcome to My GitHub! 👋
 
-CS student interested in Artificial Intelligence and Robotics
+## About Me
 
-Computer Science Bachelor’s and Master's Candidate at Case Western
-Concentrations in: Machine Learning, Robotics, Mechanical Design
+👤 **Hi, I’m @KyKatRo**
+
+🎓 **Education:**
+- 🖥️ **Bachelor's and Master's Candidate in Computer Science**
+- 🏫 **Case Western Reserve University**
+- 📚 **Concentrations:**
+  - Machine Learning
+  - Robotics
+  - Mechanical Design
+
+## Interests
+- 🤖 **Artificial Intelligence**: Passionate about exploring AI and its applications.
+- 🚀 **Robotics**: Engaging with the mechanics and electronics that breathe life into machines.
+
+## Connect with Me
+- Feel free to reach out to me about any of my repos or just a chat about tech!
+https://www.linkedin.com/in/kyler-rosen/
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kykatro)](https://git.io/awesome-stats-card)
 

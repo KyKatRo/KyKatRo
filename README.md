@@ -20,7 +20,7 @@
 - Feel free to reach out to me about any of my repos or just a chat about tech!
 https://www.linkedin.com/in/kyler-rosen/
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kykatro)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kykatro?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kykatro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

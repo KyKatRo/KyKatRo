@@ -10,7 +10,7 @@
 
 ## Interests
 - 🧠 **Large Language Models (LLMs)**: Special focus on LLMs and their diverse applications.
-- 🤖 **Artificial Intelligence**: Enthusiastic about all AI fields, with a particular interest in computer vision.
+- 🤖 **Artificial Intelligence**: Enthusiastic about all AI fields, with a particular interest in natural language processing.
 - 🚀 **Robotics**: Making things move.
 
 ## Connect with Me

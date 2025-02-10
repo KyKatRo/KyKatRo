@@ -1,5 +1,9 @@
 # Welcome to My GitHub! 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/kyler-rosen)
+[![Email](https://img.shields.io/badge/Email-Me-red?logo=gmail)](mailto:kylerrosen+github@gmail.com)
+
+
 ## About Me
 
 👤 **Hi, I’m @KyKatRo**
@@ -15,8 +19,7 @@
 
 ## Connect with Me
 - Feel free to reach out to me about any of my repos or just for a chat about tech!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/kyler-rosen)
-[![Email](https://img.shields.io/badge/Email-Me-red?logo=gmail)](mailto:kylerrosen+github@gmail.com)
+
 
 
 

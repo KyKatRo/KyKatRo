@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-Me-red?logo=gmail)](mailto:kylerrosen+github@gmail.com)
 
 
-Building rapid cancer detection at [![Slideflow Labs](https://slideflow.ai). 1000x reduction in diagnosis testing time.
+Building rapid cancer detection at [Slideflow Labs](https://slideflow.ai). 1000x reduction in diagnosis testing time.
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kykatro?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
